@@ -28,6 +28,7 @@
       <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/nodejs_Y2TSm6B_DN.png" title="nodejs" alt="nodejs" height="40"/>
       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_logo_icon_146416.png" title="MySQL" alt="MySQL" height="40"/>
       <img src="https://e7.pngegg.com/pngimages/768/167/png-clipart-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-thumbnail.png" title="MongoDB" alt="MongoDB" height="40"/>
+      <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </div>
   </div>
   
