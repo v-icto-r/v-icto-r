@@ -3,7 +3,7 @@
 **Um pouco sobre mim:**
 - 👨🏽‍💻 Estou sempre em busca de novos conhecimentos;
 - 🌱 Estou atualmente cursando **Sistemas de Informação**;
-- 🔭 Estou revisando React;
+- 🔭 Estou revisando React e estudando JAVA;
 - 🤔 Meus hobbies são assistir podcasts e futebol;
 - 💼 Sou desenvolvedor Front-End/Back-End/Full-Stack certificado pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 - 😄 Pronomes: Ele/Dele
